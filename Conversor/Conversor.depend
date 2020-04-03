@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585947548 source:c:\users\ksk itajai\desktop\conversor\main.cpp
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
